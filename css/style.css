@@ -1,0 +1,395 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #febf44;
+
+}
+.logo{
+ width: 80%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+color:#3d2514;
+text-transform: uppercase;
+font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link :hover {
+    color:#3d2514;
+    
+}
+
+.banar-one{
+    margin-top:10%;
+    
+}
+.banar h3{
+         color:#3d2514;
+        font-size: 14px;
+        text-transform: uppercase;
+        border: 1px dashed #3d2514;
+        width: 66%;
+      
+    
+}
+.banar h2{
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #3d2514;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow:  2px 1px 0px #fff;
+}
+.banar h1{
+    text-shadow:  4px 2px 0px #fff;
+    
+    font-size: 100px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #3d2514;
+    font-family:'Alfa Slab One', cursive;
+    letter-spacing: 2px;
+}
+
+.images-part{
+   
+   
+}
+.images-part img{
+    width: 100%;
+    margin-bottom: -224px;
+}
+.ellips{
+        
+        width: 20%;
+        margin-left: 21%;
+    
+}
+.ellips img{
+
+}
+.menu-part{
+    
+    
+}
+.burger-one{
+ position: absolute;
+ 
+}
+.burger-one img{
+ width: 90%;
+}
+.menu-one{
+top:30px;
+left :10px;
+ text-transform: uppercase;
+ position: relative;
+ color: #fff;
+  
+ 
+}
+.menu-one h6{
+    font-family:'Bebas Neue';
+    font-size: 16px;
+  
+}
+.menu-one h1{
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 30px;
+    font-family:'Bebas Neue';
+}
+.burger-two{
+
+    
+}
+.burger-two img{
+  position: absolute;
+  width: 40%;
+}
+.burger-two h6{
+    text-transform: uppercase;
+    font-family:'Bebas Neue';
+}
+.burger-two h1{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 32px;
+    font-family:'Bebas Neue';
+}
+.menu-two{
+    top:30px;
+    left: 10px;
+  position: relative;
+  color: #fff;
+}
+.menu-three{
+    position: relative;
+    color: #fff;
+    top:30px;
+    left: 10px;
+  }
+  .burger-three img{
+    position: absolute;
+    width: 40%;
+  
+}
+.burger-three {
+   margin-top: 25%;
+ 
+}
+
+.burger-three h6{
+    text-transform: uppercase;
+    font-family:'Bebas Neue';
+}
+.burger-three h1{
+     text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 38px;
+    font-family:'Bebas Neue';
+}
+.contact-us{
+    padding-top: 150px;
+    text-align: center;
+}
+
+.contact-one{
+
+}
+.contact-one h4{
+    padding-top:5px;
+    text-align: center;
+    margin-left:42%;
+    width: 15%;
+    background-color: #ffc045;
+    font-size:19px;
+    color: #3d2514;
+    text-transform: uppercase;
+    font-family:'Bebas Neue';
+}
+.contact-one h1{
+    font-weight: 700;
+    font-size:60px;
+    text-transform: uppercase;
+    color: #3d2514;
+    font-family:'Bebas Neue';
+}
+.contact-one p{
+    text-align: center;
+    color: #a49991
+    
+
+}
+.content{
+
+}
+.lorem{
+    text-align: center;
+
+}
+.lorem-img-part{
+    width: 80%;
+   
+}
+.lorem h1{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #3d2514;
+    font-family:'Bebas Neue';
+}
+.lorem p{
+    font-size: 16px;
+    color: #3d2514;
+    margin-bottom: 30px;
+}
+.btn-set{
+    
+    background-color: #bf2222;
+    color: #fff;
+    text-transform: uppercase;
+    padding:10px 22px;
+    font-weight: 800;
+    font-size: 14px;
+
+}
+.btn-set:hover{
+    background-color: #fff;
+    border: 1px solid red;
+    color: red;
+}
+.carosul{
+ margin-top:10%
+}
+.part{
+    padding-left: 13px;
+ padding-top:85px
+}
+.part h5{
+    color: #3d2514;
+    font-size: 25px;
+    font-family:'Bebas Neue';
+}
+.part h1{
+    font-weight: 900;
+    letter-spacing: 5px;
+    font-size: 60px;
+    color: #3d2514;
+    font-family:'Bebas Neue';
+}
+.part p{
+  line-height: 27px;
+    font-size: 15px;
+}
+.part-one{
+    width: 90%;
+}
+.part-one img{
+    width: 100%;
+}
+.box{
+    box-shadow:-6px 2px 31px 3px grey
+
+   
+}
+.form-part{
+ background-image: url(../img/bg.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ min-height: 90vh;
+ margin-top:8px;
+}
+.box-2 h5{
+ margin-top: 10%;
+ font-size: 25px;
+ color: #3d2514;
+ font-family:'Bebas Neue';
+}
+.box-2 h1{
+    letter-spacing: 5px;
+    font-weight: 900;
+    font-size: 60px;
+    color: #3d2514;
+    font-family:'Bebas Neue';
+}
+.contact-form{
+ text-align: center;
+ margin-top: 50px;
+}
+
+
+form input[type="submit"]{
+    font-family:'Bebas Neue';
+    letter-spacing: 4px;
+  background: red;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 900;
+  padding: 10px 75px;
+  border: none;
+}
+form input[type="submit"]:hover{
+    background-color: #fff;
+    color: red;
+    border: 1px solid red;
+}
+form input:focus{
+
+    box-shadow:none !important;
+    border: 2px solid #3d2514 !important;
+ }
+
+/* input:focus{
+    border: none !important;
+} */
+footer{
+ /* background-image: url(../img/hhi.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover; */
+}
+.features{
+padding-top: 50px;
+background-image: url(../img/hhi.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.features-one{
+
+}
+.features-one img{
+  width: 50%;
+}
+.features-one p{
+    
+ padding-top: 55px;
+ color: rgb(189, 180, 180);
+ font-size: 15px;
+}
+ .features-two{
+
+}
+.features-two p{
+    color: rgb(189, 180, 180);
+    font-size: 18px;
+} 
+.features-three{
+ margin-top: 12%;
+ padding-left: 20%;
+}
+.features-three ul{
+    list-style: none;
+    color: #fff;
+    font-size: 16px;
+}
+.features-three ul li{
+    padding-top: 20px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    
+    
+}
+.features-three ul li i{
+    color: #fff;
+    font-size: 30px;
+}
+
+.icon-box{
+  
+}
+.icon-box i{
+    padding-left: 15px;
+    
+     font-size: 25px;
+     color: #fff;
+     
+}
+
+.icon-box i:hover{
+    color: rgb(136, 9, 9);
+    border-radius: 50px;
+}
+.owl-dots .owl-dot span{
+    background: rgb(73, 70, 70);
+    height: 8px;
+    width: 8px;
+    border-radius: 50px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.owl-dots .active span{
+   height: 12px;
+   width: 12px;
+   
+}
+ .owl-dots{
+   padding:60px 0 10px 10px
+   
+
+   
+} 
